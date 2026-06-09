@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Ascend">
+  <rect width="512" height="512" rx="88" fill="#13151f"/>
+  <path d="M68 390 184 120 256 246 326 88 444 390Z" fill="#59d0b2"/>
+  <path d="M184 120 256 246 126 390 68 390Z" fill="#2a6e77"/>
+  <path d="M326 88 444 390 256 246Z" fill="#ffbd59"/>
+  <path d="M126 390 256 246 386 390Z" fill="#f8fafc"/>
+  <path d="M246 138 276 138 276 326 246 326Z" fill="#172033"/>
+  <path d="M256 94 310 158 202 158Z" fill="#172033"/>
+  <path d="M218 326 294 326 294 358 218 358Z" fill="#172033"/>
+</svg>
